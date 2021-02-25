@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "module-panxx",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "a473a8bdb6da11f6fc0978e5af9c9b36d6878c36"
 }
